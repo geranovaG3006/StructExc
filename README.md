@@ -40,9 +40,11 @@ int main()
      }
           cout<<"Brand: "<<cars[k].brand<<endl;
           cout<<"Model: "<<cars[k].model<<endl;
-       
-       Същата задача решена чрез указател към структура:
-       #include<iostream>
+      
+      
+// Същата задача решена чрез указател към структура:
+
+#include<iostream>
 using namespace std;
 struct Automobile
 {
